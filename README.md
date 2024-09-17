@@ -1,48 +1,65 @@
-### WhatsApp Bug Bot By `Tech God`
-Very powerfull & dangerou WhatsApp Bug 🐛 bot. 
-### Bot Features
-*⚠️ 1. Bug menu(full crash) 2. Auto status views 3. Auto read chat 4. Auto bio (about) 5. auto recording & typing 6. Always online 7. heroku full antiban 8. Auto block 9. public/private mode ⚠️*
-
-
-# Heroku deploy setup
-
-
-   1. - 🎭 `Star` 🌟 this repository.
-- If you don't have a GitHub account, [sign up](https://github.com/join) now. [video Tutorial](https://youtu.be/D9ep0hVF8-c?si=Rn0D1E5-VErXKlap)
-2.  - [FORK](https://github.com/techgod143/TECH-GOD-BUG-BOT/fork) this repository.
-3.   - Click [SCAN](https://replit.com/@DGXeon/Xeon-PairCode?v=1) and pair the code through the "WhatsApp Linked Devices" option in your WhatsApp app.
-
-4.   - If you don't have an account of heroku [create an account now](https://youtu.be/MFA2p4-BviQ?si=PYVzRn6wnpE4_0Im)
-5.  - Now watch this tutorial [Video](https://youtu.be/hjjzFlZmRqk) for `Deploy Bot`
-
-
-
-## `Heroku` buildpacks
-1. buildpack
--     heroku/nodejs
+<p align="center">
+  <a href="https://chat.whatsapp.com/KRqmK7MU5OZ8pcKoeo4CVt">
+    <img alt=Support weight="10" src="https://i.imgur.com/YWWFyUj.jpeg"> 
+    </p>
+<h1 align="center">SATORU×666</h1>
+<p align="center"> 
+    </p>
+<p align="center">
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/KRqmK7MU5OZ8pcKoeo4CVt" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/Join Group chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <a align="center">
+  <a aria-label="Follow Channel" href="https://whatsapp.com/channel/0029Vak1chV4Y9lkl89DuD3j" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/Follow Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<a aria-label="Chat me" href="https://t.me/satoru-md" target="_blank">
+    <img alt="telegram" src="https://img.shields.io/badge/Telegram Group-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+      
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=BBDEFB&lines=WELCOME+TO+satoru+666+x+MADE+BY;PAPA+IGWE+SATORU;THANKS+FOR+VISITING+MY+REPO)](https://git.io/typing-svg)  
    
-2. buildpack
--     https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-3. buildpack
+ ---
 
--     https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+## DEPLOYMENT METHODS
 
+- Click on **[FORK](https://github.com/Satoru204/Satoru-666/fork)**
+- Edit settings.js to your preference 
+- Download zip file 🗃️
 
+---
 
+## FOR PANEL DEPLOYMENT
 
+- Click on **[BOT-HOSTING.NET](https://bot-hosting.net/)**
+- Create a server
+- Upload zip file 🗃️ 
+- Start server
 
-#  important 👇 for you
+---
 
-<div align="center">
-<a href="https://www.instagram.com/techgod143/"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=G0B1&center=true&width=910&height=100&lines=Don't+Forget+To+Subscribe;my+YouTube+Channel;PROGRAM+By+TECH+GOD" alt="Typing SVG" /></a>
-  
-# YouTube channel link 👇 
-   [`More hacks & tutorials`](youtube.com/@techgod143)
+## FOR TERMUX/SSH/UBUNTU
+```
+bash
+apt update
+apt upgrade
+pkg update && pkg upgrade
+pkg install bash
+pkg install libwebp
+pkg install git -y
+pkg install nodejs -y 
+pkg install ffmpeg -y 
+pkg install wget
+pkg install imagemagick -y
+git clone https://github.com/Satoru204/Satoru-666
+cd satoru×666
+yarn install
+npm start
+```
+---
 
-# contact to owner 👇    
-<a aria-label="Join our chats" href="https://wa.me/917466008456?text=Hi!! `Tech God` Sir, I need Your Help" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</p>
-<a aria-label="Join our chats" href="(https://whatsapp.com/channel/0029Va9Ufzi8kyyEnEHvOm1h)" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</p>
+  ## DESCRIPTION
+I'm ᴘᴀᴘᴀ ɪɢᴡᴇ🦄 a public WhatsApp bot with rich features Created by IGWE-TECH. Feel free to deploy my bot in any of the deployment site. 😜
+# Loading… ███████] 99%.         𝐂𝐑𝐄𝐀𝐓𝐈𝐎𝐍 𝐄𝐓 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐌𝐄𝐍𝐓 𝐃𝐈𝐆𝐈𝐓𝐀𝐋 --------------× 𝐓𝐎𝐁𝐈-𝐌𝐃🕷️ ʙʀᴇᴀᴄᴋ ʏᴏᴜʀ sᴇʟғ ᴀɴᴅ ᴄʜᴇᴄᴋ ᴍᴏᴜᴠᴍᴇɴᴛ⛓‍💥
+ --- 
+- Star ⭐ repo if you like this bot.
